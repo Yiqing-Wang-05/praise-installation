@@ -1,0 +1,2 @@
+"""Mutual Illumination visual prototype."""
+
